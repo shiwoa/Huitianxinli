@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_dialog_alert.xml.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_alert.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_refresh.9.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\refresh.9.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_alipay.xml.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\alipay.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_refresh_button.xml.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\refresh_button.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_dialog_split_h.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dialog_split_h.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_dialog_button_colorlist.xml.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_button_colorlist.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_popup_bg.9.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_title.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\title.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_dialog_cut_line.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dialog_cut_line.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_refresh_push.9.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\refresh_push.9.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_alipay_title.xml.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\alipay_title.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_dialog_bg_click.9.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dialog_bg_click.9.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_title_background.9.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_dialog_bg_normal.9.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dialog_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_dialog_split_v.png.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dialog_split_v.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_dialog_button_submit.xml.flat",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_button_submit.xml"
+    }
+]

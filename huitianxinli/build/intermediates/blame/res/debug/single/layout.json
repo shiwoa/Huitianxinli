@@ -1,0 +1,886 @@
+[
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_group_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_group_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_comment.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_add_comment.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_combo.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_combo.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\hot_listview_foot_view.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\hot_listview_foot_view.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_package_description.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_package_description.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_available_voucher.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_available_voucher.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\exam_media_play.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\exam_media_play.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_collection.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_collection.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_topic.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_add_topic.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\video_small2.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\video_small2.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_order.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_order.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_look_parser.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_look_parser.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_order_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_course_order.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_course_order.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_downloadlist.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_downloadlist.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remove_binding.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_remove_binding.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\my_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\my_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bldownload_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_bldownload_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_topic_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\offfline_ijkmedia_controller.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\offfline_ijkmedia_controller.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_sub.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_sub.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_results.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_search_results.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\kakak.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\kakak.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_download_group.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_download_group.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_big_image.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_big_image.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_detail_topic_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_group_detail_topic_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collect_record.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_collect_record.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group_my.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_group_my.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_answer_sheet.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\dialog_answer_sheet.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\include_null.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\include_null.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\alipay.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\alipay.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_package_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_package_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_group.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_my_group.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_hot_group_list_new.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_hot_group_list_new.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\cobo_fragment.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\cobo_fragment.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_downloading.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_downloading.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_downloaded.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_downloaded.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_course_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_course_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_options.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_select_options.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\include_record.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\include_record.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_system_setting.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_system_setting.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\exam_dialog_show.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\exam_dialog_show.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_layout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\sliding_layout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playhistory.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_playhistory.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_article.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_article.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_download_child.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_download_child.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\layout_viewthree.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\layout_viewthree.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_download.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_download.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_celebrity_lecturer.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_celebrity_lecturer.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config_remove_binding.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_config_remove_binding.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\include_expand_layout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\include_expand_layout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\media_play.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\media_play.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_order.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_look_parser.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_look_parser.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_practice_report.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_practice_report.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_main.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_group_main.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\download_notification_layout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\download_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_lecturer_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_lecturer_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_member.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_member.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_used_voucher.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_used_voucher.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_webview_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_communtiy.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_search_communtiy.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ls_downloading.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_ls_downloading.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ls_play.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_ls_play.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_topic_list_image.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_topic_list_image.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discount_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_discount_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ability_assess.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_ability_assess.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_package_reviews.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_package_reviews.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\question.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\question.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog_bottom_menu.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\alertdialog_bottom_menu.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_systemacm.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_systemacm.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opinion_feedback.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_opinion_feedback.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_members_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_group_members_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_recommend.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_find_group_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_find_group_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_article.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_article.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\view_item.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\view_item.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic_type.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_topic_type.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_used_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_used_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ls_course_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_ls_course_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lecturer_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_lecturer_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_members.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_members.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_package_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_package_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_coursesearch.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_coursesearch.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_confirm_order.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_downloading.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_downloading.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_horizontal_listview.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_horizontal_listview.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_complex.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_complex.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_voucher.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_voucher.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\pullToRefreshLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\copy_of_fragment_available_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\copy_of_fragment_available_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_completion_parser.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_completion_parser.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_order.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_confirm_order.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_child.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_child.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_systemacm.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_systemacm.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_success.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_pay_success.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_confirm_order.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_payment_confirm_order.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_wrong_record.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_wrong_record.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_type.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_main_type.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_show.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\dialog_show.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_exam_sliding_menu.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_exam_sliding_menu.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discuss.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_discuss.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\tv.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\tv.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wrong_record.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_wrong_record.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic_select_type.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_topic_select_type.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\my_collection.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_record.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_study_record.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_alert.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\alipay_title.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\alipay_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\alipay_title.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_agreement.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_agreement.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binding.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_binding.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_topic.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_my_topic.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_study_record.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_study_record.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exam.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_exam.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_phone_email.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_register_phone_email.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_share.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_share.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stage_comment.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_stage_comment.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_past_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_past_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_stage_comment.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_stage_comment.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_hot_topic_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_hot_topic_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\audition.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\audition.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_past_voucher.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_past_voucher.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_combo_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_combo_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_article_new.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_article_new.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_teacher.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_teacher.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\include_head.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\include_head.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_amend_usermessage.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_amend_usermessage.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_retrieve.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_password_retrieve.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_search.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_parent.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_parent.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_resume.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_personal_resume.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_answer.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_answer.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_myaccount.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_myaccount.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myaccount.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_myaccount.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_exam_buttom.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_exam_buttom.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_sub.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_child_sub.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_available_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_available_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ls_downloaded.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_ls_downloaded.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\topic_details_header.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\topic_details_header.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_point.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_child_point.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\include_exam_head.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\include_exam_head.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_hot_group_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_hot_group_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_discount_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_discount_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_assembly_exam.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_assembly_exam.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_detail.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_group_detail.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_subject.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_subject.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course_discuss.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_course_discuss.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_parent_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_parent_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_course_discuss.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_course_discuss.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_knowledge_point.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_knowledge_point.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_major.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_major.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course_section.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_course_section.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\menu_sliding.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\menu_sliding.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal_information.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_personal_information.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\ijkmedia_controller.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\ijkmedia_controller.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\copy_of_item_discount_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\copy_of_item_discount_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic_comment_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_topic_comment_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiekou.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_jiekou.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\login_register_titlelayout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\login_register_titlelayout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_point.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_group_point.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_note.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_record_note.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\polyv_player_first_start_view.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\polyv_player_first_start_view.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baoli_course_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_baoli_course_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_correct_error.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_correct_error.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_past_member.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_past_member.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_members.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_group_members.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_course_recommend.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_course_recommend.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\polyv_player_advertisement_view.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\polyv_player_advertisement_view.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_completion.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_completion.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\include_foot.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\include_foot.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_platform_notice.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_platform_notice.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_package_reviews.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_package_reviews.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\hot_listview_header_view.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\hot_listview_header_view.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_email_register.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_email_register.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_available_member.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_available_member.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_show_network.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\dialog_show_network.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_coupon.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_coupon.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_begin_exam.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_begin_exam.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_information_details.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_information_details.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_into_group_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_into_group_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\choice_question_layout.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\choice_question_layout.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_practice_report.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_practice_report.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_newest_dynamic.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_newest_dynamic.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_topic_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_my_topic_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\copy_of_fragment_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\copy_of_fragment_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_download_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_industry_information.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_industry_information.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_capacity_error.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_capacity_error.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\item_course.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\item_course.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\polyv_player_srt_popup_view.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\polyv_player_srt_popup_view.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_look_parsers.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_single_look_parsers.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\activity_error_practice_list.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\activity_error_practice_list.xml"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sliding_menu.xml",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\layout\\fragment_sliding_menu.xml"
+    }
+]

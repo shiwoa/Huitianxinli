@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 讨论区的界面 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <!-- com.handmark.pulltorefresh.library.PullToRefresh -->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/refreshScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/x10"
+            android:paddingRight="@dimen/x10" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y10"
+                android:text="有疑惑?评论下吧"
+                android:textColor="@color/text_19"
+                android:textSize="@dimen/x13" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y13"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/to_speak" />
+
+                <EditText
+                    android:id="@+id/discuss_setEdit"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x8"
+                    android:layout_weight="1"
+                    android:background="@drawable/discussion_frame"
+                    android:hint="我要评论"
+                    android:imeOptions="actionSend"
+                    android:paddingLeft="@dimen/x11"
+                    android:paddingRight="@dimen/x11"
+                    android:textColor="@color/color_b3"
+                    android:textSize="@dimen/x11" />
+
+                <TextView
+                    android:id="@+id/send_message"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/Blue"
+                    android:padding="@dimen/x4"
+                    android:paddingLeft="@dimen/x2"
+                    android:paddingRight="@dimen/x2"
+                    android:layout_marginLeft="@dimen/x7"
+                    android:text="发送"
+                    android:textColor="@color/White" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y10"
+                android:text="评论列表"
+                android:textColor="@color/text_19" />
+			<LinearLayout
+			    android:id="@+id/no_discuss_layout"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="center_horizontal"
+			    android:layout_marginTop="@dimen/y42"
+			    android:orientation="vertical"
+			    android:gravity="center"
+			    android:visibility="gone">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/information_bg"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y11"
+                    android:text="@string/no_discuss"/>
+            </LinearLayout>
+            <com.yizhilu.view.NoScrollListView
+                android:id="@+id/discuss_listView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:scrollbars="none" >
+            </com.yizhilu.view.NoScrollListView>
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+</LinearLayout>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 课程的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zhy="http://schemas.android.com/apk/res-auto"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <!-- 切换的tab的布局 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y28"
+        android:background="@color/White"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/newLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/newText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/major"
+                android:textColor="@color/color_67"
+                android:textSize="@dimen/x12" />
+
+            <ImageView
+                android:id="@+id/newImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x3"
+                android:background="@drawable/dropdown" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="@dimen/y11"
+            android:layout_gravity="center"
+            android:background="@color/color_F6" />
+
+        <LinearLayout
+            android:id="@+id/hotLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/hotText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/teacher"
+                android:textColor="@color/color_67"
+                android:textSize="@dimen/x12" />
+
+            <ImageView
+                android:id="@+id/hotImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x3"
+                android:background="@drawable/dropdown" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="@dimen/y11"
+            android:layout_gravity="center"
+            android:background="@color/color_F6" />
+
+        <LinearLayout
+            android:id="@+id/freeLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/freeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sort"
+                android:textColor="@color/color_67"
+                android:textSize="@dimen/x12" />
+
+            <ImageView
+                android:id="@+id/freeImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x3"
+                android:background="@drawable/dropdown" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_F6" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <!-- 课程列表的布局 -->
+        <!-- com.handmark.pulltorefresh.library.PullToRefresh -->
+
+        <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+            android:id="@+id/refreshScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            ptr:ptrAnimationStyle="flip" >
+
+            <com.yizhilu.view.NoScrollListView
+                android:id="@+id/course_listView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@null"
+                android:scrollbars="none" />
+        </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+        <!-- 专业的总布局布局 -->
+
+        <LinearLayout
+            android:id="@+id/major_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <!-- 专业的布局 -->
+
+            <LinearLayout
+                android:id="@+id/courseLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:background="@color/White" >
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <com.yizhilu.view.TagFlowLayout
+                            android:id="@+id/stair_major"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="20dp"
+                            zhy:max_select="-1" >
+                        </com.yizhilu.view.TagFlowLayout>
+                    </ScrollView>
+                </ScrollView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/majorKongLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#00000000"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </LinearLayout>
+        <!-- 教师的总布局布局 -->
+
+        <LinearLayout
+            android:id="@+id/teacher_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <!-- 教师的布局 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:background="@color/White" >
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <com.yizhilu.view.TagFlowLayout
+                            android:id="@+id/teacher_listView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="20dp"
+                            zhy:max_select="-1" >
+                        </com.yizhilu.view.TagFlowLayout>
+                    </ScrollView>
+                </ScrollView>
+            </LinearLayout>
+            <!-- 透明框的布局 -->
+
+            <LinearLayout
+                android:id="@+id/teacherKongLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#00000000" >
+            </LinearLayout>
+        </LinearLayout>
+        <!-- 排序的总布局 -->
+
+        <LinearLayout
+            android:id="@+id/sort_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <!-- 排序的布局 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/White" >
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <com.yizhilu.view.TagFlowLayout
+                            android:id="@+id/sort_listView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="20dp"
+                            zhy:max_select="-1" >
+                        </com.yizhilu.view.TagFlowLayout>
+                    </ScrollView>
+                </ScrollView>
+            </LinearLayout>
+            <!-- 透明框的布局 -->
+
+            <LinearLayout
+                android:id="@+id/sortKongLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#00000000" >
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

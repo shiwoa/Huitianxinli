@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_F6" >
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/y6"
+        android:paddingTop="@dimen/x3" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y104"
+            android:layout_marginLeft="@dimen/x5"
+            android:layout_marginRight="@dimen/x10"
+            android:background="@drawable/coupon_bg"
+            android:orientation="vertical" >
+
+            <View
+                android:id="@+id/title_view"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y8"
+                android:background="@drawable/voucher" />
+
+            <RelativeLayout
+                android:id="@+id/title_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/y12"
+                android:paddingLeft="@dimen/x13"
+                android:paddingRight="@dimen/x13"
+                android:paddingTop="@dimen/y10" >
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="你好吗"
+                    android:textColor="@color/color_34"
+                    android:textSize="@dimen/x14" />
+
+                <TextView
+                    android:id="@+id/coupon_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/title"
+                    android:layout_marginTop="@dimen/y9"
+                    android:text="你好吗"
+                    android:textColor="@color/color_32"
+                    android:textSize="@dimen/x10" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/money_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="￥"
+                        android:textSize="@dimen/x14"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/discount_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x3"
+                        android:text="808"
+                        android:textSize="@dimen/x22" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/x13"
+                android:paddingRight="@dimen/x13" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/number"
+                        android:textColor="@color/color_80"
+                        android:textSize="@dimen/x9" />
+
+                    <TextView
+                        android:id="@+id/coupon_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/color_80"
+                        android:textSize="@dimen/x9" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y6"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/limited"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/limited"
+                        android:textColor="@color/color_80"
+                        android:textSize="@dimen/x9" />
+
+                    <TextView
+                        android:id="@+id/limited_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/color_80"
+                        android:textSize="@dimen/x9" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y5"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/range"
+                        android:textColor="@color/color_80"
+                        android:textSize="@dimen/x9" />
+
+                    <TextView
+                        android:id="@+id/coupon_info"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:textColor="@color/color_F24F50"
+                        android:textSize="@dimen/x9" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>

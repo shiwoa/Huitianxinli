@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 引导页的第三个布局 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/view_three"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/three_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y90"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnGo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/experience_selector"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

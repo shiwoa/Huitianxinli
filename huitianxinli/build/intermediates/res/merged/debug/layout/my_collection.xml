@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/Blue" >
+
+        <LinearLayout
+            android:id="@+id/back_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/x8"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/back_button" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/collection_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/myCollection"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x16" />
+
+        <TextView
+            android:id="@+id/collection_image_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/x13"
+            android:background="@drawable/edit_bg"
+            android:gravity="center"
+            android:text="@string/edit"
+            android:textColor="@color/White" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+			<!-- com.handmark.pulltorefresh.library.PullToRefresh -->
+            <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+                android:id="@+id/refreshScrollView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+			    ptr:ptrAnimationStyle="flip"
+                android:scrollbars="none"
+                android:smoothScrollbar="true" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+
+                    <com.yizhilu.view.NoScrollListView
+                        android:id="@+id/listView_collection"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:divider="@null"
+                        android:scrollbars="none" />
+                </LinearLayout>
+            </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+            <LinearLayout
+                android:id="@+id/collection_del_null"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y28"
+                android:background="@color/color_F6"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/collection_delete"
+                        android:layout_width="@dimen/x100"
+                        android:layout_height="@dimen/y18"
+                        android:background="@drawable/delete_bg"
+                        android:gravity="center"
+                        android:text="@string/DELETE"
+                        android:textColor="@color/Red"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/collection_empty"
+                        android:layout_width="@dimen/x100"
+                        android:layout_height="@dimen/y18"
+                        android:background="@drawable/delete_bg"
+                        android:gravity="center"
+                        android:text="@string/empty"
+                        android:textColor="@color/Red"
+                        android:textSize="15sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/null_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@color/color_F6"
+            android:visibility="gone" >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/no_collect"
+                android:layout_marginTop="@dimen/y106"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/y12"
+                android:textSize="@dimen/x14"
+                android:textColor="@color/color_67"
+                android:text="不想忘记 ?"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/y10"
+                android:textSize="@dimen/x14"
+                android:textColor="@color/color_67"
+                android:text="那就马上收藏吧"/>
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

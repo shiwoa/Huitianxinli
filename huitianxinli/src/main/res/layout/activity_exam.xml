@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical">
+    <!-- title的布局 -->
+    <include layout="@layout/include_head" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y32"
+        android:background="@color/color_e9f4ff"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x16"
+            android:src="@mipmap/horn" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x9"
+            android:text="@string/practice"
+            android:textColor="@color/color_99"
+            android:textSize="@dimen/x12" />
+
+        <TextView
+            android:id="@+id/last_time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/x14"
+            android:gravity="center_vertical"
+            android:textColor="@color/color_FE9403"
+            android:textSize="@dimen/x12" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/classification"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@null"/>
+    <!-- 底部导航的布局 -->
+    <include
+        layout="@layout/include_foot"/>
+</LinearLayout>

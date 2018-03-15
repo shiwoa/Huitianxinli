@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 意见反馈的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f6f6f6"
+    android:orientation="vertical" >
+
+    <include layout="@layout/login_register_titlelayout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y210"
+        android:layout_marginTop="@dimen/y6"
+        android:background="@color/White"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginTop="@dimen/y11"
+            android:text="|"
+            android:textColor="@color/color_34"
+            android:textSize="@dimen/x13" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x7"
+            android:layout_marginRight="@dimen/x27"
+            android:layout_marginTop="@dimen/y11"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feedback_information"
+                android:textColor="@color/color_34"
+                android:textSize="@dimen/x13" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y7"
+                android:text="@string/feedback_point_out"
+                android:textColor="@color/color_7f"
+                android:textSize="@dimen/x12" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y30"
+                android:text="@string/feedback_content"
+                android:textColor="@color/color_7f"
+                android:textSize="@dimen/x12" />
+
+            <EditText
+                android:id="@+id/feedback_content"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y40"
+                android:layout_marginTop="@dimen/y6"
+                android:background="@drawable/feedback_bg"
+                android:textColor="@color/color_33"
+                android:gravity="left|top"
+                android:paddingLeft="@dimen/x5"
+                android:paddingRight="@dimen/x5" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y16"
+                android:text="@string/feedback_contact"
+                android:textColor="@color/color_7f"
+                android:textSize="@dimen/x12" />
+
+            <EditText
+                android:id="@+id/feedback_number"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="@dimen/y6"
+                android:background="@drawable/feedback_bg"
+                android:hint="@string/feedback_hint"
+                android:textSize="@dimen/x12"
+                android:textColor="@color/color_33"
+                android:paddingLeft="@dimen/x5" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/feedback_button"
+        android:layout_width="@dimen/x267"
+        android:layout_height="@dimen/y28"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/y25"
+        android:background="@drawable/feedback_btn"
+        android:text="@string/feedback"
+        android:textColor="@color/White"
+        android:textSize="@dimen/x15" />
+
+</LinearLayout>

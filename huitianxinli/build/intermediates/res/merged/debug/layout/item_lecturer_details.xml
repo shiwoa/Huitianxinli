@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/x15"
+        android:paddingLeft="@dimen/x10"
+        android:paddingRight="@dimen/x10"
+        android:paddingTop="@dimen/x15" >
+
+        <ImageView
+            android:id="@+id/lecturer_courseImage"
+            android:layout_width="@dimen/x115"
+            android:layout_height="@dimen/y39"
+            android:layout_gravity="center"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/x9"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/lecturer_courseName"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:maxLines="2"
+                android:text="java基础练习"
+                android:textColor="@color/color_33"
+                android:textSize="@dimen/x12" />
+            <RelativeLayout 
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                >
+                <LinearLayout
+                android:id="@+id/recommend_currentPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y7"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="￥  "
+                    android:textColor="@color/color_b2"
+                    android:textSize="@dimen/x11" />
+
+                <TextView
+                    android:id="@+id/recommendMoney"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_b2"
+                    android:textSize="@dimen/x11" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/recommend_freePrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y7"
+                android:layout_marginLeft="@dimen/x5"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:background="@drawable/free_img" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x5"
+                    android:text="@string/free"
+                    android:textColor="@color/color_b2"
+                    android:textSize="@dimen/x11" />
+            </LinearLayout>
+                
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/lecturer_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="播放量 : "
+                    android:textColor="@color/color_b2"
+                    android:textSize="@dimen/x11" />
+            </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_F6" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="tag_index"/>
+    <item type="id" name="tag_pic_urls"/>
+
+    <item type="id" name="id_stickynavlayout_topview"/>
+    <item type="id" name="id_stickynavlayout_viewpager"/>
+    <item type="id" name="id_stickynavlayout_indicator"/>
+    <item type="id" name="id_stickynavlayout_innerscrollview"/>
+
+</resources>

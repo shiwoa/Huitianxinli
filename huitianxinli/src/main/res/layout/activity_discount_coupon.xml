@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x50"
+        android:background="@color/Blue" >
+
+        <LinearLayout
+            android:id="@+id/back_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/x10"
+                android:background="@drawable/back_button" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/title_coupon_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/voucher_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/left_yes" >
+
+                <TextView
+                    android:id="@+id/voucher_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/discount_couu"
+                    android:textColor="@color/Blue"
+                    android:textSize="@dimen/x13" />
+
+                <View
+                    android:id="@+id/voucher_view"
+                    android:layout_width="@dimen/x40"
+                    android:layout_height="1dp"
+                    android:layout_below="@id/voucher_text"
+                    android:layout_marginTop="@dimen/y3"
+                    android:background="@color/White"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/coupon_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/right_no" >
+
+                <TextView
+                    android:id="@+id/coupon_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/voucher"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/x13" />
+
+                <View
+                    android:id="@+id/coupon_view"
+                    android:layout_width="@dimen/x40"
+                    android:layout_height="1dp"
+                    android:layout_below="@id/coupon_text"
+                    android:layout_marginTop="@dimen/y3"
+                    android:background="@color/Blue"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/member_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/x27"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/member_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/member_coupon"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/x13" />
+
+                <View
+                    android:id="@+id/member_view"
+                    android:layout_width="@dimen/x40"
+                    android:layout_height="1dp"
+                    android:layout_below="@id/member_text"
+                    android:layout_marginTop="@dimen/y3"
+                    android:background="@color/Blue" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

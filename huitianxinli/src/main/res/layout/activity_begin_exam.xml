@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/White">
+
+    <include layout="@layout/include_head" />
+
+    <include
+        layout="@layout/include_exam_head"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/gridView_Layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y43"
+            android:layout_gravity="bottom"
+            android:background="@drawable/exam_buttom_bg"
+            android:visibility="gone">
+
+            <GridView
+                android:id="@+id/gridView_one"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="4"
+                android:listSelector="@color/transparenc" />
+        </LinearLayout>
+        <include
+            layout="@layout/include_null"/>
+    </FrameLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_c0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y39">
+
+        <GridView
+            android:id="@+id/gridView_two"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="4"
+            android:listSelector="@color/White" />
+    </LinearLayout>
+</LinearLayout>

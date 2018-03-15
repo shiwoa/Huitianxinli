@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparenc"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/x289"
+        android:layout_height="@dimen/y210"
+        android:background="@drawable/share" >
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/y11"
+            android:text="@string/share_arrive"
+            android:textColor="@color/text_19"
+            android:textSize="@dimen/x15" />
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_below="@id/title_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y13"
+            android:layout_marginBottom="@dimen/y13"
+            android:gravity="center"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="@dimen/y21" >
+        </GridView>
+
+        <ImageView
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/share_cancel"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/y8" />
+    </RelativeLayout>
+
+</LinearLayout>

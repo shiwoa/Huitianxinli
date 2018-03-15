@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\audio_pause_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\audio_pause_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\pause_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\pause_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\collection.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\collection.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\network_right_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\network_right_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\continue_study_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\continue_study_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\knowledge.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\knowledge.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\close.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\answered_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\answered_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\assessment_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\assessment_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\error.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\error.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\total.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\total.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\horn.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\horn.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\single_selected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\single_selected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\right_arrow.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\point_close.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\point_close.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\cancel_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\cancel_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\collected_exam_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\collected_exam_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\test_assembly.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\test_assembly.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\knowledge_close.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\knowledge_close.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\single_select.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\single_select.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\null_exam.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\null_exam.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\audio_seekbar.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\audio_seekbar.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\collected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\collected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\stars.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\stars.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\red_point.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\red_point.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\error_topic.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\error_topic.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\time_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\time_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\intelligence.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\intelligence.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\report_parser_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\report_parser_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\assessment.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\assessment.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\network_right_bg_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\network_right_bg_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\wrong.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\wrong.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\start_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\start_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\answer_right_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\answer_right_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\point_open.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\point_open.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\look_error.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\look_error.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\network_left_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\network_left_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\answer_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\answer_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\collect_exam_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\collect_exam_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\exam_model_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\exam_model_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\white_point.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\white_point.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bg_exit.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\bg_exit.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\answer_error_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\answer_error_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\right.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\right.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\stars2.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\stars2.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\network_left_bg_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\network_left_bg_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\record.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\record.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\right_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\right_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\error_correction.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\error_correction.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\more_exam_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\more_exam_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\double_select.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\double_select.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\parser_collect.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\parser_collect.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\record_parser_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\record_parser_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\discuss.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\discuss.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\parser_collected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\parser_collected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\right_question.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\right_question.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\top_menu.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\top_menu.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\error_question.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\error_question.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\audio_start_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\audio_start_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\average_score.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\average_score.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\send_paper.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\send_paper.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\stage.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\stage.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\practice_model_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\practice_model_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\double_selected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\double_selected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\marker_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\marker_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\error_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\error_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\stars3.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\stars3.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\zhenti.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\zhenti.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\begin_exam.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\begin_exam.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\open.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\open.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\parser_line.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\parser_line.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\recorded.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\recorded.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\answer_sheet.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\answer_sheet.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\next_work.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\next_work.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\return_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\mipmap-xxxhdpi\\return_button.png"
+    }
+]

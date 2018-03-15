@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/y36"
+    android:background="@color/color_f2f6f9"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/assessment_layout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/assessment_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/assessment" />
+
+        <TextView
+            android:id="@+id/assessment_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/capability_assessment"
+            android:textColor="@color/color_58585c"
+            android:layout_marginTop="@dimen/y3"
+            android:textSize="@dimen/x10" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/record_layout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/record_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/record" />
+
+        <TextView
+            android:id="@+id/record_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/examination_record"
+            android:textColor="@color/color_58585c"
+            android:layout_marginTop="@dimen/y3"
+            android:textSize="@dimen/x10" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/error_layout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/error_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/error" />
+
+        <TextView
+            android:id="@+id/error_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wrong_title_records"
+            android:textColor="@color/color_58585c"
+            android:layout_marginTop="@dimen/y3"
+            android:textSize="@dimen/x10" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/collection_layout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/collection_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/collection" />
+
+        <TextView
+            android:id="@+id/collection_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/collection"
+            android:textColor="@color/color_58585c"
+            android:layout_marginTop="@dimen/y3"
+            android:textSize="@dimen/x10" />
+    </LinearLayout>
+</LinearLayout>

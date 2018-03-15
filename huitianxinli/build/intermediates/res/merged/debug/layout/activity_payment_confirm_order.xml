@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 确认订单的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <include layout="@layout/login_register_titlelayout" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+			<View
+			    android:layout_width="match_parent"
+			    android:layout_height="@dimen/y6"
+			    android:background="@color/backgroundGray"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/y11"
+                android:paddingLeft="@dimen/x10"
+                android:paddingRight="@dimen/x10"
+                android:paddingTop="@dimen/x9" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/xian" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x9"
+                        android:text="@string/buy_course"
+                        android:textColor="@color/Black" />
+                </LinearLayout>
+				<com.yizhilu.view.NoScrollListView
+				    android:id="@+id/payment_course_listView"
+				    android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:scrollbars="none"
+				    android:divider="@null"/>
+            </LinearLayout>
+			<View
+			    android:layout_width="match_parent"
+			    android:layout_height="@dimen/y6"
+			    android:background="@color/backgroundGray"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/y11"
+                android:paddingLeft="@dimen/x10"
+                android:paddingRight="@dimen/x10"
+                android:paddingTop="@dimen/x9" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/xian" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="@string/pay_mode"
+                        android:textColor="@color/Black" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/alipay_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y11"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/alipay_logo" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x9"
+                        android:layout_weight="1"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/alipay_pay"
+                            android:textColor="@color/text_color_normal"
+                            android:textSize="@dimen/x13" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/x9"
+                            android:text="@string/tuijian_alipay"
+                            android:textColor="@color/color_b3"
+                            android:textSize="@dimen/x10" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/alipay_select"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/pay_selected" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/view_pay"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="@dimen/y7"
+                    android:background="#f6f6f6" />
+
+                <LinearLayout
+                    android:id="@+id/wxpay_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y7"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/wxpay_logo" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x9"
+                        android:layout_weight="1"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wx_pay"
+                            android:textColor="@color/text_color_normal"
+                            android:textSize="@dimen/x13" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/x9"
+                            android:text="@string/tuijian_wxpay"
+                            android:textColor="@color/color_b3"
+                            android:textSize="@dimen/x10" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/wxpay_select"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/pay_not_selected" />
+                </LinearLayout>
+            </LinearLayout>
+			<View
+			    android:layout_width="match_parent"
+			    android:layout_height="@dimen/y6"
+			    android:background="@color/backgroundGray"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/x10"
+                android:paddingLeft="@dimen/x10"
+                android:paddingRight="@dimen/x10"
+                android:paddingTop="@dimen/x9" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/xian" />
+
+                    <TextView
+                        android:id="@+id/Payment"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="@string/account_message"
+                        android:textColor="@color/Black" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="@dimen/y27"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/x10" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/order_price"
+                        android:textColor="@color/text_color_normal"
+                        android:textSize="@dimen/x13" />
+
+                    <TextView
+                        android:id="@+id/zong_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="￥ 1980"
+                        android:textColor="@color/color_b2"
+                        android:textSize="@dimen/x14" />
+                </LinearLayout>
+				<LinearLayout
+                    android:id="@+id/coupon_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@id/total"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/x10"
+                    android:paddingTop="@dimen/x10"
+                    android:gravity="center_vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/apply_my_coupon"
+                        android:textColor="@color/text_color_normal"
+                        android:textSize="@dimen/x13" />
+
+                    <TextView
+                        android:id="@+id/coupon_text"
+                        android:layout_marginLeft="@dimen/x5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="未选择"
+                        android:textColor="@color/Red"
+                        android:textSize="@dimen/x14" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rectangle"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@id/coupon_layout"
+                    android:layout_marginTop="@dimen/x10"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/reality_order_price"
+                        android:textColor="@color/text_color_normal"
+                        android:textSize="@dimen/x13" />
+
+                    <TextView
+                        android:id="@+id/reality_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="￥ 1890"
+                        android:textColor="@color/Red"
+                        android:textSize="@dimen/x18" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/submitOrder"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y28"
+                android:layout_marginLeft="@dimen/x10"
+                android:layout_marginRight="@dimen/x10"
+                android:layout_marginTop="@dimen/y10"
+                android:layout_marginBottom="@dimen/y10"
+                android:background="@drawable/submit_button"
+                android:gravity="center"
+                android:text="@string/confirm_order"
+                android:textColor="@color/White"
+                android:textSize="@dimen/x13" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x50"
+        android:background="@color/Blue" >
+
+        <LinearLayout
+            android:id="@+id/about_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/x10"
+                android:background="@drawable/back_button" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/about_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/about_us"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x16" />
+
+        <Button
+            android:id="@+id/password_preserve"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/x10"
+            android:background="@drawable/iconfont_fenxiangx2"
+            android:visibility="gone" />
+    </RelativeLayout>
+    <LinearLayout 
+        android:background="@drawable/about_us"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></LinearLayout>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/y30"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/y10"
+            android:text="关于我们"
+            android:textColor="@color/color_32"
+            android:textSize="@dimen/x16" />
+
+        <TextView
+            android:id="@+id/about_version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/y7"
+            android:text="@string/about_version"
+            android:textColor="@color/text_color_normal"
+            android:textSize="@dimen/x12"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_marginLeft="@dimen/x10"
+            android:layout_marginRight="@dimen/x10"
+            android:layout_marginBottom="@dimen/x10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/y20"
+            android:text="@string/about_knowledge"
+            android:textColor="@color/color_32"
+            android:textSize="@dimen/x13" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y13"
+            android:gravity="center"
+            android:paddingLeft="@dimen/x45"
+            android:paddingRight="@dimen/x45"
+            android:text="@string/about_brief"
+            android:textColor="@color/text_color_normal"
+            android:textSize="@dimen/x10"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/go_welcome"
+            android:layout_width="@dimen/x178"
+            android:layout_height="@dimen/y22"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/y23"
+            android:background="@drawable/about_up_btn"
+            android:gravity="center"
+            android:text="@string/about_welcome"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x13"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

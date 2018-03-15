@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundGray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/login_register_titlelayout" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/White" >
+		
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+			<View
+			    android:layout_width="match_parent"
+			    android:layout_height="@dimen/y7"
+			    android:background="@color/backgroundGray"/>
+            <com.yizhilu.view.NoScrollGridView
+                android:id="@+id/gridView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:horizontalSpacing="@dimen/x10"
+                android:listSelector="@drawable/xuan"
+                android:numColumns="2"
+                android:paddingBottom="@dimen/y11"
+                android:paddingLeft="@dimen/x13"
+                android:paddingRight="@dimen/x13"
+                android:paddingTop="@dimen/y11"
+                android:scrollbars="none"
+                android:verticalSpacing="@dimen/x10" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dip"
+                android:layout_marginBottom="10dip"
+                android:background="@color/color_cc" />
+
+            <com.yizhilu.view.NoScrollExpandableListView
+                android:id="@+id/download_expandablelist"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:groupIndicator="@null"
+                android:scrollbars="none" />
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/y5"
+        android:paddingTop="@dimen/y5" >
+
+        <Button
+            android:id="@+id/download_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dip"
+            android:background="@drawable/exit_bg"
+            android:text="确认下载"
+            android:textColor="@color/exit_text_bg"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</LinearLayout>

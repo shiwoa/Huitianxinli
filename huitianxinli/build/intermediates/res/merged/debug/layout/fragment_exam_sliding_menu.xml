@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_2d3036"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y47"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/x29"
+        android:text="@string/general_practice"
+        android:textColor="@color/color_cacccf"
+        android:textSize="@dimen/x15" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_525459" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ExpandableListView
+            android:id="@+id/sub_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:childDivider="@null"
+            android:childIndicator="@null"
+            android:divider="@null"
+            android:groupIndicator="@null" />
+        <!-- 无试题显示的布局 -->
+
+        <LinearLayout
+            android:id="@+id/null_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" 
+            android:visibility="gone"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y79"
+                android:background="@mipmap/null_exam" />
+
+            <TextView
+                android:id="@+id/null_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/y20"
+                android:text="@string/null_exam"
+                android:textColor="@color/color_67"
+                android:textSize="@dimen/x15" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

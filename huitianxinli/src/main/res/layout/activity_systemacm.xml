@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <include layout="@layout/login_register_titlelayout" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/systemacm_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+	    ptr:ptrAnimationStyle="flip"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp" >
+
+        <com.yizhilu.view.NoScrollListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null" >
+        </com.yizhilu.view.NoScrollListView>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+</LinearLayout>

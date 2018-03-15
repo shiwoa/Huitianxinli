@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.yizhilu.view.CircleImageView
+            android:id="@+id/members_avatar"
+            android:layout_width="@dimen/x32"
+            android:layout_height="@dimen/x32"
+            android:layout_marginLeft="@dimen/x13"
+            android:src="@drawable/weijiazai" />
+
+        <TextView
+            android:id="@+id/members_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x10"
+            android:text="--"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/x14" />
+    </LinearLayout>
+
+</LinearLayout>

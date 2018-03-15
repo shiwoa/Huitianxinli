@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 推荐课程的item -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/White"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/recommendImage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y49"
+            android:background="@drawable/ic_launcher"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/recommendTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y6"
+            android:singleLine="true"
+            android:textColor="@color/color_22"
+            android:textSize="@dimen/x11" />
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/y9"
+            android:layout_marginTop="@dimen/y7" >
+
+            <LinearLayout
+                android:id="@+id/recommend_currentPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y7"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/recommend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x11" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="人学习"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x11" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

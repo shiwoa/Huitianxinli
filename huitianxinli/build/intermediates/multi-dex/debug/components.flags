@@ -1,0 +1,75 @@
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\alipaySDK-20150602.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\android-async-http-1.4.6.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\bugly_1.2.9_release.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\commons-codec-1.9.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\easemobchat_2.1.4.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\fastjson-1.2.2.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\greendao-2.1.0.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\httpclient-android-4.3.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\httpmime-4.3.5.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\jikmediaplayer.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\jikmediawidget.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\libammsdk.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\MobLogCollector.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\MobTools.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\okio-1.8.0.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\picasso-2.5.2.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\polyvSDK1.0.25.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\RecyclerView.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-Core-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-QQ-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-QZone-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-SinaWeibo-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-TencentWeibo-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-Wechat-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-Wechat-Core-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\ShareSDK-Wechat-Moments-2.6.3.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\slidingmenu.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\uk-co-senab-photoview.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\libs\universal-image-loader-1.9.1.jar'(**.class)
+-injars 'D:\work\Android\api\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar'(**.class)
+-injars 'C:\Users\bishuang\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10c09c5dbb05255a123afe6279620637\jars\classes.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\pullToRefreshLibrary\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\build\intermediates\classes\debug'(**.class)
+-outjars 'E:\newProject\AllProject\Huitianxinli\huitianxinli\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'D:\work\Android\api\build-tools\27.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\newProject\AllProject\Huitianxinli\huitianxinli\build\intermediates\multi-dex\debug\components.flags'
+
+
+# view AndroidManifest.xml #generated:35
+-keep class com.yizhilu.application.DemoApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

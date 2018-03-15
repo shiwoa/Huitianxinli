@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 解除第三方登录确认的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_F6"
+    android:orientation="vertical" >
+
+    <include layout="@layout/login_register_titlelayout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/y8"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y31"
+            android:background="@color/White"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/x12"
+                android:text="用户名："
+                android:textColor="@color/color_33"
+                android:textSize="@dimen/x13" />
+
+            <TextView
+                android:id="@+id/userName_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/x9"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:textColor="@color/color_33"
+                android:textSize="@dimen/x15" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y31"
+            android:background="@color/White"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/x12"
+                android:text="    密码："
+                android:textColor="@color/color_33"
+                android:textSize="@dimen/x13" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/passWord_edit"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/x9"
+                    android:background="@null"
+                    android:hint="@string/hint_text_passWord"
+                    android:inputType="textPassword"
+                    android:textColor="@color/color_33"
+                    android:textSize="@dimen/x13" />
+
+                <View
+                    android:id="@+id/passWord_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/x1"
+                    android:layout_marginTop="@dimen/y6"
+                    android:background="@color/color_F6" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:id="@+id/errorMessage_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y13"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x15"
+                    android:background="@drawable/error_button" />
+
+                <TextView
+                    android:id="@+id/error_message"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x5"
+                    android:text="输入"
+                    android:textColor="@color/color_red"
+                    android:textSize="@dimen/x12" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/forget_pass"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/x13"
+                android:layout_marginTop="@dimen/y13"
+                android:text="@string/forget_pass"
+                android:textColor="@color/Black"
+                android:textSize="@dimen/x12"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/relieve_binding"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y29"
+            android:layout_marginLeft="@dimen/x15"
+            android:layout_marginRight="@dimen/x15"
+            android:layout_marginTop="@dimen/y55"
+            android:background="@drawable/bangding_sure"
+            android:gravity="center"
+            android:text="@string/relieve_binding"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x16" />
+
+        <TextView
+            android:id="@+id/relieve_binding_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y29"
+            android:layout_marginLeft="@dimen/x15"
+            android:layout_marginRight="@dimen/x15"
+            android:layout_marginTop="@dimen/y11"
+            android:background="@drawable/bangding_cancel"
+            android:gravity="center"
+            android:text="@string/cancel"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x16" />
+    </LinearLayout>
+
+</LinearLayout>

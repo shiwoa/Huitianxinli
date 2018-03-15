@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <!-- Tab的布局 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y28"
+        android:background="@color/color_f9"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/dynamicLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/dynamicText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/new_state"
+                android:textSize="@dimen/x11"
+                android:textColor="@color/Blue" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="@dimen/y11"
+            android:layout_gravity="center"
+            android:background="@color/color_F6" />
+
+        <LinearLayout
+            android:id="@+id/informationLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/informationText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/industry_information"
+                android:textSize="@dimen/x11"
+                android:textColor="@color/tabText" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="@dimen/y11"
+            android:layout_gravity="center"
+            android:background="@color/color_F6" />
+
+        <LinearLayout
+            android:id="@+id/noticeLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/noticeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Platform_notice"
+                android:textSize="@dimen/x11"
+                android:textColor="@color/tabText" />
+        </LinearLayout>
+    </LinearLayout>
+	<!-- Tab线的布局 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:orientation="horizontal" >
+
+        <View
+            android:id="@+id/line_one"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/Blue" />
+
+        <View
+            android:id="@+id/line_two"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/color_f9" />
+
+        <View
+            android:id="@+id/line_three"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/color_f9" />
+    </LinearLayout>
+    <!-- 线的布局 -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/Blue" />
+    <!-- 切换文章类型的布局 -->
+
+    <FrameLayout
+        android:id="@+id/articleLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" />
+
+</LinearLayout>

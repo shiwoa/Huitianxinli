@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yizhilu.huitianxinli"
+    android:versionCode="3"
+    android:versionName="1.4.4" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+    <!-- 权限设置 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <!-- 乐视 -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+
+    <application
+        android:name="com.yizhilu.application.DemoApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@android:style/Theme.Black.NoTitleBar" >
+
+        <!-- 启动页 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.StartActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 引导页 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.GuideActivity"
+            android:screenOrientation="portrait" />
+        <!-- 主页面 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.MainActivity"
+            android:screenOrientation="portrait" />
+        <!-- 咨询详情的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.InformationDetailsActivity"
+            android:screenOrientation="portrait" />
+        <!-- 咨询详情的类 -->
+        <activity
+            android:name="com.yizhilu.community.TopicDetailsActivity"
+            android:screenOrientation="portrait" />
+        <!-- 咨询详情的类 -->
+        <activity
+            android:name="com.yizhilu.community.TopicSelectTypeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 咨询详情的类 -->
+        <activity
+            android:name="com.yizhilu.community.AddCommentActivity"
+            android:screenOrientation="portrait" />
+        <!-- 咨询详情的类 -->
+        <activity
+            android:name="com.yizhilu.community.AddTopicActivity"
+            android:screenOrientation="portrait" />
+        <!-- 咨询详情的类 -->
+        <activity
+            android:name="com.yizhilu.community.GroupDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.community.GroupMembersActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.community.SearchActivityCommuntiy"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.community.MyTopicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.community.MyGroupActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.community.BigImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.PracticeReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.LookParserActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.RecordNoteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.CorrectErrorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.SingleLookParserActivity"
+            android:screenOrientation="portrait" />
+        <!-- 课程详情的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.CourseDetailsActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <!-- 乐视课程详情的类 -->
+        <activity
+            android:name="com.yizhilu.ls.LSCourseDetailsActivity"
+            android:configChanges="keyboard|keyboardHidden|screenSize|orientation|layoutDirection"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <!-- 登录的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.LoginActivity"
+            android:screenOrientation="portrait" />
+        <!-- 注册的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.RegistrActivity"
+            android:screenOrientation="portrait" />
+        <!-- 个人中心的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PersonalInformationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.huitianxinli.ErrorPracticeListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.DiscussActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.AssemblyExamActivity"
+            android:screenOrientation="portrait" />
+        <!-- 修改密码的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.ChangePasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.huitianxinli.BeginExamActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的订单类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.MyOrderActivity"
+            android:screenOrientation="portrait" />
+        <!-- 播放历史类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PlayHistoryActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 意见反馈的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.OpinionFeedbackActivity"
+            android:screenOrientation="portrait" />
+        <!-- 系统设置的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.SystemSettingActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的账户类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.MyAccountActivity"
+            android:screenOrientation="portrait" />
+        <!-- 确认订单的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.ConfirmOrderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.huitianxinli.ComboDetailsActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" />
+        <!-- 点击待支付订单确认订单的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PaymentConfirmOrderActivity"
+            android:screenOrientation="portrait" />
+        <!-- 立即支付的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PayActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="wxaf676dee667d4f80" />
+            </intent-filter>
+        </activity>
+        <!-- 搜索类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.SearchActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.huitianxinli.SystemAcmActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 名家讲师类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.CelebrityLecturerActivity"
+            android:screenOrientation="portrait" />
+        <!-- 讲师详情类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.LecturerDetailsActivity"
+            android:screenOrientation="portrait" />
+        <!-- 关于 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.About_Activity"
+            android:screenOrientation="portrait" />
+        <!-- 我的收藏 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.MyCollectionActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的课程 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.MyCourseActivity"
+            android:screenOrientation="portrait" />
+        <!-- 修改用户信息的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.AmendUserMessageActivity"
+            android:screenOrientation="portrait" />
+        <!-- CC视频下载 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.DownLoadSelectActivity"
+            android:screenOrientation="portrait" />
+        <!-- 乐视视频下载 -->
+        <activity
+            android:name="com.yizhilu.ls.LSDownLoadSelectActivity"
+            android:screenOrientation="portrait" />
+        <!-- 下载界面 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.DownloadsActivity"
+            android:screenOrientation="portrait" />
+        <!-- 乐视下载界面 -->
+        <activity
+            android:name="com.yizhilu.ls.LSDownloadsActivity"
+            android:screenOrientation="portrait" />
+        <!-- CC离线视频播放页面 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.MediaPlayActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+        <!-- 乐视离线播放页面 -->
+        <activity
+            android:name="com.yizhilu.ls.LSPlayActivity"
+            android:configChanges="keyboard|screenSize|orientation|layoutDirection"
+            android:screenOrientation="portrait" />
+        <!-- 支付成功的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PaySuccessActivity"
+            android:screenOrientation="portrait" />
+        <!-- 找回密码的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PassWordRetrieveActivity"
+            android:screenOrientation="portrait" />
+        <!-- 邮箱注册的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.EmailRegistrActivity"
+            android:screenOrientation="portrait" />
+        <!-- 更新版本的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.UpdateEditionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent" />
+        <!-- 优惠券的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.DiscountCouponActivity"
+            android:screenOrientation="portrait" />
+        <!-- 可用优惠券的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.AvailableCouponActivity"
+            android:screenOrientation="portrait" />
+        <!-- 个人简历 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.PersonalResume"
+            android:screenOrientation="portrait" />
+        <!-- 加载图文的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.WebViewCoursePlay"
+            android:screenOrientation="portrait" />
+        <!-- 协议的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.AgreementActivity"
+            android:screenOrientation="portrait" />
+        <!-- 绑定第三方的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.BinDingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.BeginExamActivity"
+            android:screenOrientation="portrait" />
+        <!-- 解除绑定第三方的类 -->
+
+        <activity
+            android:name="com.yizhilu.huitianxinli.RemoveBindingActivity"
+            android:screenOrientation="portrait" />
+        <!-- 学习记录 -->
+        <activity
+            android:name="com.yizhilu.exam.StudyRecordActivity"
+            android:screenOrientation="portrait" />
+        <!-- 错题记录 -->
+        <activity
+            android:name="com.yizhilu.exam.WrongRecordActivity"
+            android:screenOrientation="portrait" />
+        <!-- 能力评估 -->
+        <activity
+            android:name="com.yizhilu.exam.AbilityAssessActivity"
+            android:screenOrientation="portrait" />
+        <!-- 知识点练习 -->
+        <activity
+            android:name="com.yizhilu.exam.KnowledgePointActivity"
+            android:screenOrientation="portrait" />
+        <!-- 阶段测试 -->
+        <activity
+            android:name="com.yizhilu.exam.StageCommentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.ErrorPracticeListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 收藏试题 -->
+        <activity
+            android:name="com.yizhilu.exam.CollectRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yizhilu.exam.BeginExamPaperActivity"
+            android:screenOrientation="portrait" />
+        <!-- 解除绑定第三方确认的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.RemoveBindingConfigActivity"
+            android:screenOrientation="portrait" />
+        <!-- 視頻下載的服務 -->
+        <service android:name="com.yizhilu.service.DownloadService" />
+        <!-- 更新app的服务 -->
+        <service android:name="com.yizhilu.service.DownLoadVersionService" />
+        <!-- 更新版本的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.UpdateNetWorkActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent" />
+        <!-- 分享的組件 -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <intent-filter>
+                <data android:scheme="tencent1105080901" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 微信分享回调 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- QQ客户端回调 -->
+        <activity
+            android:name="cn.sharesdk.tencent.qq.ResultReceiver"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+
+            <!--
+				如果集成QQ分享，或者使用QQ客户端来进行QQ空间的分享，须要在此处添加一个对ACTION_VIEW
+				事件的过滤器，其中的scheme是“tencent”前缀再开发者应用的加上appId。如果此过滤器不设置，
+				则分享结束以后不能得到正确的回调
+            -->
+            <intent-filter android:priority="1000" >
+                <data android:scheme="tencent1105080901" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <!-- alipay sdk begin 加上,如果没有安装支付宝会调用网页的 -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.yizhilu.huitianxinli.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:label="@string/app_name" >
+        </activity>
+
+        <receiver android:name="com.yizhilu.wechatpayment.AppRegister" >
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+            </intent-filter>
+        </receiver>
+        <!-- 乐视视频 -->
+        <activity
+            android:name="com.lecloud.ad.WebViewActivity"
+            android:configChanges="keyboard|screenSize|orientation|layoutDirection"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <!-- Feed back Activity -->
+        <activity
+            android:name="com.letv.skin.activity.FeedBackActivity"
+            android:configChanges="keyboard|screenSize|orientation|layoutDirection"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+
+        <service
+            android:name="com.letv.pp.service.CdeService"
+            android:process=":cde" />
+        <!-- 保利视频 -->
+        <activity
+            android:name="com.yizhilu.baoli.BLCourseDetailsActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.yizhilu.baoli.BLDownLoadSelectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.easefun.polyvsdk.VideoViewActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar" >
+
+            <!-- android:screenOrientation="landscape" -->
+        </activity>
+        <activity
+            android:name="com.yizhilu.baoli.IjkVideoActicity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="com.yizhilu.baoli.PolyvDownloadListActivity"
+            android:screenOrientation="portrait" />
+
+        <service android:name="com.yizhilu.baoli.PolyvDemoService" />
+
+        <activity android:name="com.yizhilu.exam.ExamActivity" >
+        </activity>
+        <activity android:name="com.yizhilu.community.GroupMainActivity" >
+        </activity>
+        <!-- 加载图文的类 -->
+        <activity
+            android:name="com.yizhilu.huitianxinli.RegistrPhoneEmailActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="com.yizhilu.view.ConnectionReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.alipay.android.app.sdk.WapPayActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

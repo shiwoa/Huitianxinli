@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/White"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/y6" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y103" >
+
+        <ImageView
+            android:id="@+id/combo_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/sprite"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/package_left" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/y6"
+        android:paddingLeft="@dimen/x9"
+        android:paddingRight="@dimen/x9"
+        android:paddingTop="@dimen/y6" >
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#EE7700"
+            android:textSize="@dimen/x13" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y6"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/color_80"
+            android:textSize="@dimen/x12" />
+        <!-- 套餐价格的布局 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y9"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="价格 : "
+                android:textColor="@color/color_80"
+                android:textSize="@dimen/x12" />
+
+            <TextView
+                android:id="@+id/combo_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥99"
+                android:textColor="#EE7700"
+                android:textSize="@dimen/x12" />
+
+            <TextView
+                android:id="@+id/yuan_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x20"
+                android:text="原价 : "
+                android:textColor="@color/color_80"
+                android:textSize="@dimen/x12" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/courseNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y7"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="课程数 : 12"
+            android:textColor="@color/color_80"
+            android:textSize="@dimen/x12" />
+
+        <TextView
+            android:id="@+id/playNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y7"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="播放: 10"
+            android:textColor="@color/color_80"
+            android:textSize="@dimen/x12" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y6"
+        android:background="#f3f2f0" />
+
+</LinearLayout>

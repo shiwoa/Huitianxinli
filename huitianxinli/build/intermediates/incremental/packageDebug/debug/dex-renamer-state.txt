@@ -1,0 +1,7 @@
+#Thu Mar 15 20:17:44 CST 2018
+base.0=E\:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes2.dex
+base.1=E\:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+file.0=E\:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y25"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/x22"
+        android:paddingRight="@dimen/x22" >
+
+        <LinearLayout
+            android:id="@+id/available_coupon_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/available_text"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/available_coupon"
+                android:textColor="@color/Blue"
+                android:textSize="@dimen/x12" />
+
+            <View
+                android:id="@+id/available_view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/Blue" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/used_coupon_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/used_text"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="已使用"
+                android:textColor="@color/color_65"
+                android:textSize="@dimen/x12" />
+
+            <View
+                android:id="@+id/used_view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/past_coupon_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/past_text"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/past_coupon"
+                android:textColor="@color/color_65"
+                android:textSize="@dimen/x12" />
+
+            <View
+                android:id="@+id/past_view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/White" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/available_past_coupon_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

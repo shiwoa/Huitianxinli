@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_line"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y53"
+            android:layout_marginTop="@dimen/y6"
+            android:background="@color/White"
+            android:gravity="center_vertical" >
+
+            <com.yizhilu.view.CircleImageView
+                android:id="@+id/user_avatar_img"
+                android:layout_width="@dimen/x44"
+                android:layout_height="@dimen/x44"
+                android:layout_marginLeft="@dimen/x20"
+                android:src="@drawable/weijiazai_header" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x25"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/my_group_layout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/join_group_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="--"
+                        android:textColor="@color/text_black"
+                        android:textSize="@dimen/x17" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/y3"
+                        android:text="加入的小组"
+                        android:textColor="@color/text_gray999"
+                        android:textSize="@dimen/x11" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="3dp"
+                    android:layout_marginTop="3dp"
+                    android:background="@color/bg_line" />
+
+                <LinearLayout
+                    android:id="@+id/my_topic_layout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/all_topic_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="--"
+                        android:textColor="@color/text_black"
+                        android:textSize="@dimen/x17" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/y3"
+                        android:text="发表的话题"
+                        android:textColor="@color/text_gray999"
+                        android:textSize="@dimen/x11" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y28"
+            android:layout_marginTop="@dimen/y6"
+            android:background="@color/White"
+            android:gravity="center_vertical|right"
+            android:orientation="horizontal" >
+
+            <GridView
+                android:id="@+id/group_image_list"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x25"
+                android:layout_weight="1"
+                android:horizontalSpacing="@dimen/x9"
+                android:listSelector="@android:color/transparent"
+                android:numColumns="7" >
+            </GridView>
+
+            <ImageView
+                android:id="@+id/my_group_more"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="@dimen/x15"
+                android:src="@drawable/more_group" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/new_topic_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y6"
+            android:background="@color/White"
+            android:gravity="center_vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y28"
+                android:layout_marginRight="@dimen/x15"
+                android:drawableLeft="@drawable/new_topic"
+                android:drawablePadding="@dimen/x7"
+                android:drawableRight="@drawable/new_topic_more"
+                android:gravity="center|left"
+                android:text="最新话题"
+                android:textColor="@color/text_gray666"
+                android:textSize="@dimen/x13" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/bg_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/White" >
+
+            <com.handmark.pulltorefresh.library.PullToRefreshListView
+                android:id="@+id/my_topic_listView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:scrollbars="none" />
+
+            <TextView
+                android:id="@+id/empty_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawablePadding="10dp"
+                android:drawableTop="@drawable/no_topic"
+                android:text="您还没有发表过话题"
+                android:textColor="@color/text_gray777"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/unlogin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/White"
+        android:orientation="vertical"
+        android:visibility="gone" >
+    </LinearLayout>
+
+</FrameLayout>

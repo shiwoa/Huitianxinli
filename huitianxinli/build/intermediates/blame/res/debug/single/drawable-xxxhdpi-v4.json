@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\browse.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\browse.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\personal_account.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\personal_account.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iconfont_fenxiangx2.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iconfont_fenxiangx2.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\sina.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\sina.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_qq.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_qq.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\collect.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\collect.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iconfont_bbgxiazai.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iconfont_bbgxiazai.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\choice.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\choice.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\view_two.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\view_two.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\success_img.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\success_img.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\sc_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\sc_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\start.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\start.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\small_rectangle.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\small_rectangle.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\about_us.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\about_us.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\wxpay_logo.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\wxpay_logo.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\home_logo.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\home_logo.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\search_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\search_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\seekbar.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\seekbar.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dl_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\dl_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ks_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\ks_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_weixinp.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_weixinp.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\alipay_logo.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\alipay_logo.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\sinaimagenot.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\sinaimagenot.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\me_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\me_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\view.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\view.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\information_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\information_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\pl_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\pl_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iconfont_fenxiangx1.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iconfont_fenxiangx1.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iconfont_qianbao.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iconfont_qianbao.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\video_back.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\video_back.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\btn_open.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\btn_open.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\package_normal.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\package_normal.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\xian.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\xian.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iv_media_esc.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iv_media_esc.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\setting_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\setting_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_left_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_left_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\dropdown.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\dropdown.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bangding_cancel.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bangding_cancel.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\record_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\record_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_view_heng.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_view_heng.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\entroself.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\entroself.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\course_my.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\course_my.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\go_login_register.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\go_login_register.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\down_load.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\down_load.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\collection.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\collection.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bangding_sure.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bangding_sure.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\qqimagenot.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\qqimagenot.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\famous_lecturer.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\famous_lecturer.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\to_speak.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\to_speak.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\zc_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\zc_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\xian_select.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\xian_select.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_left_bg_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_left_bg_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\accomplish.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\accomplish.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\view_one.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\view_one.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\vertical_rectangle.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\vertical_rectangle.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_weibo.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_weibo.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\emils.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\emils.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\opinion.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\opinion.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\close_select.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\close_select.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\persona_account.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\persona_account.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\article_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\article_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\close.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\course_default.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\course_default.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iv_media_quanping.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iv_media_quanping.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bj_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bj_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\load_my.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\load_my.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\time.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\time.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bg_download_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bg_download_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\wrong.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\wrong.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\qq.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\qq.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\my_course.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\my_course.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\weixin.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\weixin.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_view_su.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_view_su.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\information.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\information.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\more_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\more_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_right_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_right_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\view_three.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\view_three.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\system_notice.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\system_notice.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_weixin.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_weixin.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\course_button_selected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\course_button_selected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\binding_go.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\binding_go.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\article_button_selected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\article_button_selected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\me_button_selected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\me_button_selected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\foot_my.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\foot_my.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\discount_coupon.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\discount_coupon.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\sinaimageyes.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\sinaimageyes.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\phone.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\free_img.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\free_img.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bg_expire.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bg_expire.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\xx_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\xx_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bg_exit.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bg_exit.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\coupon_del.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\coupon_del.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\read_button_yes.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\read_button_yes.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\play_null.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\play_null.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\down_select.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\down_select.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\weixinimagenot.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\weixinimagenot.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_tubiao.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_tubiao.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\resume.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\resume.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\read_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\read_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\course_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\course_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\sliding_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\sliding_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\back.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bg_youhuiquan.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\bg_youhuiquan.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\home_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\home_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\order.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\order.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\setting_head_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\setting_head_bg.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\open.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\open.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\back_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\back_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\qqimageyes.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\qqimageyes.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\package_select.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\package_select.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\hot.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\hot.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\weixinimageyes.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\weixinimageyes.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\recommend.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\recommend.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\btn_playee.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\btn_playee.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\home_button_selected.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\home_button_selected.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_right_bg_no.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_right_bg_no.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\system_message.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\system_message.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_xinweibo.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_xinweibo.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\system_settings.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\system_settings.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fenxiangx2.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\fenxiangx2.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\feedback.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\feedback.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\playonn.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\playonn.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_cancel.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_cancel.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\rectangle.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\rectangle.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\radio_broadcast.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\radio_broadcast.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\no_collect.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\no_collect.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\collect_yes.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\collect_yes.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\return_button.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\return_button.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\btn_withdrawn.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\btn_withdrawn.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iconfont_lianxi.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iconfont_lianxi.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\share_qqzone.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\share_qqzone.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\iconfont_shoucang.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\iconfont_shoucang.png"
+    },
+    {
+        "merged": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\network_bg.png",
+        "source": "E:\\newProject\\AllProject\\Huitianxinli\\huitianxinli\\src\\main\\res\\drawable-xxxhdpi\\network_bg.png"
+    }
+]

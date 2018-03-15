@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="beforeDescendants">
+    <EditText
+        android:id="@+id/completion_edit"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y27"
+        android:background="@drawable/completion_bg"
+        android:layout_marginTop="@dimen/y3"
+        android:layout_marginBottom="@dimen/y3"
+        android:textColor="@color/black"
+        android:hint="你好"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/x9"
+        android:textSize="@dimen/x11"/>
+</LinearLayout>

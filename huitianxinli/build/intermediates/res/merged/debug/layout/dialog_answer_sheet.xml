@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_e6161920"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/x34"
+    android:paddingRight="@dimen/x34">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y50"
+        android:gravity="center"
+        android:text="答题卡"
+        android:textColor="@color/color_cacccf"
+        android:textSize="@dimen/x13" />
+
+    <GridView
+        android:id="@+id/sheet_gridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:verticalSpacing="@dimen/y5"
+        android:numColumns="8" />
+    <!-- 确定  取消按钮的布局 -->
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x23"
+        android:layout_marginRight="@dimen/x23"
+        android:layout_marginTop="@dimen/y20"
+        android:layout_marginBottom="@dimen/y20"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cancel_sheet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/cancel_bg"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="@color/white"
+            android:textSize="@dimen/x11" />
+
+        <TextView
+            android:id="@+id/start_answer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x34"
+            android:background="@mipmap/begin_exam"
+            android:gravity="center"
+            android:text="我要交卷"
+            android:textColor="@color/white"
+            android:textSize="@dimen/x11" />
+    </LinearLayout>
+</LinearLayout>

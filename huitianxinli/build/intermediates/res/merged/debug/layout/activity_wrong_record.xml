@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!-- title的布局 -->
+    <include layout="@layout/include_head" />
+
+    <include layout="@layout/include_record" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+            android:id="@+id/refreshScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/x14"
+                    android:background="@color/color_e5" />
+
+                <com.yizhilu.view.NoScrollListView
+                    android:id="@+id/wrongRecordList"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="@null"
+                    android:scrollbars="none" />
+            </FrameLayout>
+        </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+        <!-- 无试题显示的布局 -->
+        <include layout="@layout/include_null" />
+    </FrameLayout>
+
+    <include layout="@layout/include_foot" />
+</LinearLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/y10" >
+
+        <ImageView
+            android:id="@+id/imagecheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/course_layout"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/x16"
+            android:background="@drawable/collect_button"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/course_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x16"
+            android:layout_toRightOf="@id/imagecheck"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="@dimen/x115"
+                android:layout_height="@dimen/y39"
+                android:scaleType="fitXY" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/x11"
+                android:layout_marginRight="@dimen/x16"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/collection_titleText"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:maxLines="2"
+                    android:text="java基础练习"
+                    android:textColor="@color/color_33"
+                    android:textSize="@dimen/x12" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical" >
+					<ImageView
+					    android:layout_width="wrap_content"
+					    android:layout_height="wrap_content"
+					    android:background="@drawable/time"/>
+                    <TextView
+                        android:id="@+id/collection_keshifenlei"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x3"
+                        android:text="日期"
+                        android:textColor="@color/color_b2"
+                        android:textSize="@dimen/x11" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignLeft="@id/course_layout"
+            android:layout_below="@id/course_layout"
+            android:layout_marginTop="@dimen/y10"
+            android:background="@color/color_F6" />
+    </RelativeLayout>
+
+</LinearLayout>

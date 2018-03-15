@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/y10"
+        android:orientation="horizontal" >
+
+        <com.yizhilu.view.CircleImageView
+            android:id="@+id/discuss_head"
+            android:layout_width="@dimen/y25"
+            android:layout_height="@dimen/y25"
+            android:src="@drawable/ic_launcher"
+            app:border_color="#FFEEEEEE"
+            app:border_width="1dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x9"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/discuss_userName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="aaaa"
+                android:textColor="@color/Blue"
+                android:textSize="@dimen/x13" />
+
+            <TextView
+                android:id="@+id/discuss_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y8"
+                android:text="aaa"
+                android:textColor="@color/color_4d"
+                android:textSize="@dimen/x12" />
+
+            <TextView
+                android:id="@+id/discuss_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y6"
+                android:gravity="center_vertical"
+                android:textColor="@color/color_4d"
+                android:textSize="@dimen/x12"
+                android:text="aaaa" />
+        </LinearLayout>
+    </LinearLayout>
+	<View
+	    android:layout_width="match_parent"
+	    android:layout_height="1dp"
+	    android:layout_marginTop="@dimen/y6"
+	    android:background="@color/color_F6"/>
+</LinearLayout>

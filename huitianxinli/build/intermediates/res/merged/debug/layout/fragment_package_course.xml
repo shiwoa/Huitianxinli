@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/White"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y54"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/courseTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x16"
+                    android:layout_marginRight="@dimen/x16"
+                    android:singleLine="true"
+                    android:text="比吃肉还爽的美食"
+                    android:textColor="@color/text_gray333"
+                    android:textSize="@dimen/x15" />
+
+                <LinearLayout
+                    android:id="@+id/price_pay_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/y6"
+                    android:gravity="bottom"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/money"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x16"
+                        android:text="￥"
+                        android:textColor="@color/text_grayEE7"
+                        android:textSize="@dimen/x15" />
+
+                    <TextView
+                        android:id="@+id/course_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1980"
+                        android:textColor="@color/text_grayEE7"
+                        android:textSize="@dimen/x15" />
+
+                    <TextView
+                        android:id="@+id/two"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/x44"
+                        android:text="原价：￥"
+                        android:textColor="@color/text_grayB1B"
+                        android:textSize="@dimen/x12" />
+
+                    <TextView
+                        android:id="@+id/price_two"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="1980"
+                        android:textColor="@color/text_grayB1B"
+                        android:textSize="@dimen/x12" />
+
+                    <TextView
+                        android:id="@+id/purchaseText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/x16"
+                        android:background="@drawable/text_green_bg_solid_frame"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="5dp"
+                        android:text="@string/purchase"
+                        android:textColor="@color/White"
+                        android:textSize="@dimen/x14"
+                        android:visibility="visible" />
+
+                    <ImageView
+                        android:id="@+id/free_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/x16"
+                        android:background="@drawable/freefree"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_e5" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/White"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x10"
+                    android:layout_marginRight="@dimen/x10"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/x10"
+                    android:paddingTop="@dimen/x10" >
+
+                    <TextView
+                        android:id="@+id/recommend"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:text="套餐"
+                        android:textColor="@color/text_19"
+                        android:textSize="@dimen/x13" />
+
+                    <ImageView
+                        android:id="@+id/small_recommend_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/x15"
+                        android:background="@drawable/more_button" 
+                        android:visibility="gone"
+                        />
+                </RelativeLayout>
+            </RelativeLayout>
+            <!-- 小编推荐的课程布局 -->
+
+            <com.yizhilu.view.NoScrollGridView
+                android:id="@+id/recommendGridView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/White"
+                android:horizontalSpacing="@dimen/x10"
+                android:listSelector="@drawable/xuan"
+                android:numColumns="2"
+                android:paddingBottom="@dimen/x10"
+                android:paddingLeft="@dimen/x10"
+                android:paddingRight="@dimen/x10"
+                android:scrollbars="none"
+                android:verticalSpacing="@dimen/x10" />
+
+            <View
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y7"
+                android:background="@color/backgroundGray" />
+
+            <RelativeLayout
+                  android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/White"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x10"
+                    android:layout_marginRight="@dimen/x10"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/x10"
+                    android:paddingTop="@dimen/x10" >
+
+                    <TextView
+                        android:id="@+id/course_recommen"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:text="@string/course_recommen"
+                        android:textColor="@color/text_19"
+                        android:textSize="@dimen/x13" />
+
+                    <ImageView
+                        android:id="@+id/course_recommen_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/x15"
+                        android:background="@drawable/more_button" />
+                </RelativeLayout>
+            </RelativeLayout>
+            <com.yizhilu.view.NoScrollGridView
+                  android:visibility="gone"
+                android:id="@+id/course_recommenView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/White"
+                android:horizontalSpacing="@dimen/x10"
+                android:listSelector="@drawable/xuan"
+                android:numColumns="2"
+                android:paddingBottom="@dimen/x10"
+                android:paddingLeft="@dimen/x10"
+                android:paddingRight="@dimen/x10"
+                android:scrollbars="none"
+                android:verticalSpacing="@dimen/x10" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

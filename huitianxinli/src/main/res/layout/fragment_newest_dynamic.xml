@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 最新动态的文章布局 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White" >
+    <!-- com.handmark.pulltorefresh.library.PullToRefresh -->
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/refreshScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+	    ptr:ptrAnimationStyle="flip"
+        android:scrollbars="none" >
+        <com.yizhilu.view.NoScrollListView
+            android:id="@+id/newestDynamicList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null" />
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+    <LinearLayout 
+        android:id="@+id/show_background"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:visibility="gone"
+        >
+        <ImageView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@drawable/no_article"
+            />
+    </LinearLayout>
+</RelativeLayout>

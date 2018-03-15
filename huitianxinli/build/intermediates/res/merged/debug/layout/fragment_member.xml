@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y25"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/available_member_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/available_member_text"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/available_member"
+                android:textColor="@color/Blue"
+                android:textSize="@dimen/x12" />
+
+            <View
+                android:id="@+id/available_member_view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/Blue" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/past_member_layout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/past_member_text"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/past_member"
+                android:textColor="@color/color_65"
+                android:textSize="@dimen/x12" />
+
+            <View
+                android:id="@+id/past_member_view"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/White" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/available_past_member_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

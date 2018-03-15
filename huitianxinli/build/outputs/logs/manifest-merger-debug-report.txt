@@ -1,0 +1,821 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+MERGED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [:pullToRefreshLibrary] E:\newProject\AllProject\Huitianxinli\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\bishuang\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10c09c5dbb05255a123afe6279620637\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:1-476:12
+	package
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:pullToRefreshLibrary] E:\newProject\AllProject\Huitianxinli\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [:pullToRefreshLibrary] E:\newProject\AllProject\Huitianxinli\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\bishuang\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10c09c5dbb05255a123afe6279620637\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\bishuang\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\10c09c5dbb05255a123afe6279620637\AndroidManifest.xml:20:5-43
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+		INJECTED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.INTERNET
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:19:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.CAMERA
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:25:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:30:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:31:22-77
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:32:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:34:22-76
+application
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:36:5-474:19
+MERGED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:pullToRefreshLibrary] E:\newProject\AllProject\Huitianxinli\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshLibrary] E:\newProject\AllProject\Huitianxinli\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:40:9-41
+	android:icon
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:39:9-38
+	android:allowBackup
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:38:9-35
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:42:9-62
+		REJECTED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-40
+	tools:replace
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:41:9-52
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:37:9-63
+activity#com.yizhilu.huitianxinli.StartActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:46:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:51:27-74
+activity#com.yizhilu.huitianxinli.GuideActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:56:13-66
+activity#com.yizhilu.huitianxinli.MainActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:60:13-65
+activity#com.yizhilu.huitianxinli.InformationDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:64:13-79
+activity#com.yizhilu.community.TopicDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:68:13-70
+activity#com.yizhilu.community.TopicSelectTypeActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:72:13-73
+activity#com.yizhilu.community.AddCommentActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:75:9-77:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:76:13-68
+activity#com.yizhilu.community.AddTopicActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:80:13-66
+activity#com.yizhilu.community.GroupDetailActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:83:9-85:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:84:13-69
+activity#com.yizhilu.community.GroupMembersActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:87:13-70
+activity#com.yizhilu.community.SearchActivityCommuntiy
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:90:13-73
+activity#com.yizhilu.community.MyTopicActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:92:9-94:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:93:13-65
+activity#com.yizhilu.community.MyGroupActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:95:9-97:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:96:13-65
+activity#com.yizhilu.community.BigImageActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:98:9-100:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:99:13-66
+activity#com.yizhilu.exam.PracticeReportActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:101:9-103:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:102:13-67
+activity#com.yizhilu.exam.LookParserActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:104:9-106:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:105:13-63
+activity#com.yizhilu.exam.RecordNoteActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:107:9-109:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:108:13-63
+activity#com.yizhilu.exam.CorrectErrorActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:110:9-112:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:111:13-65
+activity#com.yizhilu.exam.SingleLookParserActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:113:9-115:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:114:13-69
+activity#com.yizhilu.huitianxinli.CourseDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:117:9-121:63
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:120:13-49
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:119:13-74
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:121:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:118:13-74
+activity#com.yizhilu.ls.LSCourseDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:123:9-127:63
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:126:13-49
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:125:13-99
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:127:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:124:13-66
+activity#com.yizhilu.huitianxinli.LoginActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:129:9-131:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:131:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:130:13-66
+activity#com.yizhilu.huitianxinli.RegistrActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:133:9-135:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:135:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:134:13-68
+activity#com.yizhilu.huitianxinli.PersonalInformationActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:137:9-139:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:139:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:138:13-80
+activity#com.yizhilu.huitianxinli.ErrorPracticeListActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:140:9-142:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:141:13-78
+activity#com.yizhilu.exam.DiscussActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:143:9-145:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:144:13-60
+activity#com.yizhilu.exam.AssemblyExamActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:146:9-148:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:148:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:147:13-65
+activity#com.yizhilu.huitianxinli.ChangePasswordActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:150:9-152:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:152:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:151:13-75
+activity#com.yizhilu.huitianxinli.BeginExamActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:153:9-155:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:154:13-70
+activity#com.yizhilu.huitianxinli.MyOrderActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:157:9-159:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:159:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:158:13-68
+activity#com.yizhilu.huitianxinli.PlayHistoryActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:161:9-164:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:163:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:162:13-72
+activity#com.yizhilu.huitianxinli.OpinionFeedbackActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:166:9-168:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:167:13-76
+activity#com.yizhilu.huitianxinli.SystemSettingActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:170:9-172:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:172:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:171:13-74
+activity#com.yizhilu.huitianxinli.MyAccountActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:174:9-176:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:176:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:175:13-70
+activity#com.yizhilu.huitianxinli.ConfirmOrderActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:178:9-180:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:180:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:179:13-73
+activity#com.yizhilu.huitianxinli.ComboDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:181:9-184:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:184:13-49
+	android:launchMode
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:183:13-48
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:182:13-73
+activity#com.yizhilu.huitianxinli.PaymentConfirmOrderActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:186:9-188:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:188:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:187:13-80
+activity#com.yizhilu.huitianxinli.PayActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:190:9-200:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:192:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:191:13-64
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:193:13-199:29
+action#android.intent.action.VIEW
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:194:17-69
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:194:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:196:17-76
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:196:27-73
+data
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:198:17-61
+	android:scheme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:198:23-58
+activity#com.yizhilu.huitianxinli.SearchActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:202:9-204:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:204:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:203:13-67
+activity#com.yizhilu.huitianxinli.SystemAcmActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:205:9-208:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:207:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:206:13-70
+activity#com.yizhilu.huitianxinli.CelebrityLecturerActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:210:9-212:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:212:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:211:13-78
+activity#com.yizhilu.huitianxinli.LecturerDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:214:9-216:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:216:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:215:13-76
+activity#com.yizhilu.huitianxinli.About_Activity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:218:9-220:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:220:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:219:13-67
+activity#com.yizhilu.huitianxinli.MyCollectionActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:222:9-224:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:224:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:223:13-73
+activity#com.yizhilu.huitianxinli.MyCourseActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:226:9-228:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:228:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:227:13-69
+activity#com.yizhilu.huitianxinli.AmendUserMessageActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:230:9-232:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:232:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:231:13-77
+activity#com.yizhilu.huitianxinli.DownLoadSelectActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:234:9-236:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:236:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:235:13-75
+activity#com.yizhilu.ls.LSDownLoadSelectActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:238:9-240:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:240:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:239:13-67
+activity#com.yizhilu.huitianxinli.DownloadsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:242:9-244:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:244:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:243:13-70
+activity#com.yizhilu.ls.LSDownloadsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:246:9-248:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:248:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:247:13-62
+activity#com.yizhilu.huitianxinli.MediaPlayActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:250:9-253:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:252:13-50
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:251:13-70
+activity#com.yizhilu.ls.LSPlayActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:255:9-258:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:258:13-49
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:257:13-84
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:256:13-57
+activity#com.yizhilu.huitianxinli.PaySuccessActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:260:9-262:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:262:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:261:13-71
+activity#com.yizhilu.huitianxinli.PassWordRetrieveActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:264:9-266:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:266:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:265:13-77
+activity#com.yizhilu.huitianxinli.EmailRegistrActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:268:9-270:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:270:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:269:13-73
+activity#com.yizhilu.huitianxinli.UpdateEditionActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:272:9-275:64
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:274:13-49
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:275:13-61
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:273:13-74
+activity#com.yizhilu.huitianxinli.DiscountCouponActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:277:9-279:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:279:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:278:13-75
+activity#com.yizhilu.huitianxinli.AvailableCouponActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:281:9-283:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:283:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:282:13-76
+activity#com.yizhilu.huitianxinli.PersonalResume
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:285:9-287:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:287:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:286:13-67
+activity#com.yizhilu.huitianxinli.WebViewCoursePlay
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:289:9-291:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:291:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:290:13-70
+activity#com.yizhilu.huitianxinli.AgreementActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:293:9-295:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:295:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:294:13-70
+activity#com.yizhilu.huitianxinli.BinDingActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:297:9-299:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:299:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:298:13-68
+activity#com.yizhilu.exam.BeginExamActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:300:9-302:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:302:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:301:13-62
+activity#com.yizhilu.huitianxinli.RemoveBindingActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:305:9-307:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:307:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:306:13-74
+activity#com.yizhilu.exam.StudyRecordActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:309:9-311:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:311:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:310:13-64
+activity#com.yizhilu.exam.WrongRecordActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:313:9-315:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:315:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:314:13-64
+activity#com.yizhilu.exam.AbilityAssessActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:317:9-319:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:319:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:318:13-66
+activity#com.yizhilu.exam.KnowledgePointActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:321:9-323:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:323:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:322:13-67
+activity#com.yizhilu.exam.StageCommentActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:325:9-327:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:327:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:326:13-65
+activity#com.yizhilu.exam.ErrorPracticeListActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:328:9-330:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:330:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:329:13-70
+activity#com.yizhilu.exam.CollectRecordActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:332:9-334:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:334:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:333:13-66
+activity#com.yizhilu.exam.BeginExamPaperActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:335:9-337:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:337:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:336:13-67
+activity#com.yizhilu.huitianxinli.RemoveBindingConfigActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:339:9-341:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:341:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:340:13-80
+service#com.yizhilu.service.DownloadService
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:343:9-71
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:343:18-68
+service#com.yizhilu.service.DownLoadVersionService
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:345:9-78
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:345:18-75
+activity#com.yizhilu.huitianxinli.UpdateNetWorkActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:347:9-350:64
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:349:13-49
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:350:13-61
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:348:13-74
+activity#com.mob.tools.MobUIShell
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:352:9-366:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:355:13-49
+	android:windowSoftInputMode
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:357:13-67
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:354:13-74
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:356:13-72
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:353:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:358:13-365:29
+	android:priority
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:385:28-51
+category#android.intent.category.BROWSABLE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:363:17-78
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:363:27-75
+activity#com.yizhilu.huitianxinli.wxapi.WXEntryActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:368:9-373:75
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:372:13-49
+	android:exported
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:371:13-36
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:370:13-74
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:373:13-72
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:369:13-50
+activity#cn.sharesdk.tencent.qq.ResultReceiver
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:375:9-393:20
+	android:launchMode
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:377:13-44
+	android:noHistory
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:378:13-37
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:376:13-65
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:395:9-401:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:399:13-47
+	android:windowSoftInputMode
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:400:13-67
+	android:exported
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:398:13-37
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:397:13-74
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:396:13-60
+activity#com.yizhilu.huitianxinli.wxapi.WXPayEntryActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:402:9-406:20
+	android:label
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:405:13-45
+	android:exported
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:404:13-36
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:403:13-77
+receiver#com.yizhilu.wechatpayment.AppRegister
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:408:9-412:20
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:408:19-71
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:409:13-411:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:410:17-100
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:410:25-97
+activity#com.lecloud.ad.WebViewActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:414:9-419:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:417:13-49
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:416:13-84
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:418:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:415:13-58
+activity#com.letv.skin.activity.FeedBackActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:421:9-426:20
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:424:13-49
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:423:13-84
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:425:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:422:13-67
+service#com.letv.pp.service.CdeService
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:428:9-430:38
+	android:process
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:430:13-35
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:429:13-58
+activity#com.yizhilu.baoli.BLCourseDetailsActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:432:9-437:55
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:435:13-49
+	android:windowSoftInputMode
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:437:13-52
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:434:13-74
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:436:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:433:13-69
+activity#com.yizhilu.baoli.BLDownLoadSelectActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:438:9-440:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:440:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:439:13-70
+activity#com.easefun.polyvsdk.VideoViewActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:441:9-448:20
+	android:label
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:444:13-45
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:443:13-74
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:445:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:442:13-66
+activity#com.yizhilu.baoli.IjkVideoActicity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:449:9-453:63
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:452:13-49
+	android:configChanges
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:451:13-74
+	android:theme
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:453:13-60
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:450:13-62
+activity#com.yizhilu.baoli.PolyvDownloadListActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:454:9-456:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:456:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:455:13-71
+service#com.yizhilu.baoli.PolyvDemoService
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:458:9-70
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:458:18-67
+activity#com.yizhilu.exam.ExamActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:460:9-461:20
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:460:19-63
+activity#com.yizhilu.community.GroupMainActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:462:9-463:20
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:462:19-73
+activity#com.yizhilu.huitianxinli.RegistrPhoneEmailActivity
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:465:9-467:52
+	android:screenOrientation
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:467:13-49
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:466:13-78
+receiver#com.yizhilu.view.ConnectionReceiver
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:469:9-473:20
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:469:19-69
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:470:13-472:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:471:17-79
+	android:name
+		ADDED from E:\newProject\AllProject\Huitianxinli\huitianxinli\src\main\AndroidManifest.xml:471:25-76
+activity#com.alipay.android.app.sdk.WapPayActivity
+ADDED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-17:20
+	android:screenOrientation
+		ADDED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [:alipay_lib] E:\newProject\AllProject\Huitianxinli\alipay_lib\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-69

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y60"
+                android:background="@drawable/background" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x22"
+                android:layout_marginTop="@dimen/y36"
+                android:orientation="horizontal" >
+
+                <FrameLayout
+                    android:layout_width="@dimen/x54"
+                    android:layout_height="@dimen/x54" >
+
+                    <ImageView
+                        android:id="@+id/menu_userHead"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/head_layout_bg"
+                        android:scaleType="fitXY" />
+
+                    <com.yizhilu.view.CircleImageView
+                        android:id="@+id/image_head"
+                        android:layout_width="@dimen/x50"
+                        android:layout_height="@dimen/x50"
+                        android:layout_gravity="center"
+                        android:background="@drawable/head_bg"
+                        app:border_color="@color/White"
+                        app:border_width="0dp" />
+                </FrameLayout>
+
+                <TextView
+                    android:id="@+id/userName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/x17"
+                    android:layout_marginTop="@dimen/y7"
+                    android:textColor="@color/White"
+                    android:textSize="@dimen/x14" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/sliding_myCourse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x22"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/menu_myCourseimg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/my_course" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x8"
+                    android:layout_toRightOf="@id/menu_myCourseimg"
+                    android:text="@string/sliding_course"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x12" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/x17"
+                    android:src="@drawable/rectangle" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sliding_teacher"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x22"
+                android:layout_marginTop="@dimen/y17"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/img_myteacher"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/famous_lecturer" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x8"
+                    android:layout_toRightOf="@id/img_myteacher"
+                    android:text="@string/sliding_teacher"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x12" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/x17"
+                    android:src="@drawable/rectangle" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sliding_announcement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x22"
+                android:layout_marginTop="@dimen/y17"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/img_announcement"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/system_message" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x8"
+                    android:layout_toRightOf="@id/img_announcement"
+                    android:text="@string/system_notice"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x12" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/x17"
+                    android:src="@drawable/rectangle" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/color_e5" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/sliding_feedback"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/x22"
+                android:layout_marginTop="@dimen/y17"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/img_feedback"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/opinion" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x8"
+                    android:layout_toRightOf="@id/img_feedback"
+                    android:text="@string/sliding_feedback"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x12" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/x17"
+                    android:src="@drawable/rectangle" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/sliding_systemSet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/y22"
+                android:layout_marginLeft="@dimen/x22"
+                android:layout_marginTop="@dimen/y17"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/img_systemSet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/system_settings" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x8"
+                    android:layout_toRightOf="@id/img_systemSet"
+                    android:text="@string/sliding_set"
+                    android:textColor="@color/color_65"
+                    android:textSize="@dimen/x12" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/x17"
+                    android:src="@drawable/rectangle" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

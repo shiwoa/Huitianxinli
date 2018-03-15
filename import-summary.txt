@@ -1,0 +1,128 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From Huitianxinli:
+* .factorypath
+* ic_launcher-web.png
+* proguard-project.txt
+From PullToRefreshLibrary:
+* LICENSE
+* build.gradle
+* pom.xml
+From alipay_lib:
+* .DS_Store
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In PullToRefreshLibrary:
+* AndroidManifest.xml => pullToRefreshLibrary\src\main\AndroidManifest.xml
+* assets\ => pullToRefreshLibrary\src\main\assets
+* res\ => pullToRefreshLibrary\src\main\res\
+* src\ => pullToRefreshLibrary\src\main\java\
+In alipay_lib:
+* AndroidManifest.xml => alipay_lib\src\main\AndroidManifest.xml
+* assets\ => alipay_lib\src\main\assets
+* lint.xml => alipay_lib\lint.xml
+* res\ => alipay_lib\src\main\res\
+* src\ => alipay_lib\src\main\java\
+* src\.DS_Store => alipay_lib\src\main\resources\.DS_Store
+In Huitianxinli:
+* .apt_generated\ => huitianxinli\src\main\java\
+* AndroidManifest.xml => huitianxinli\src\main\AndroidManifest.xml
+* assets\ => huitianxinli\src\main\assets\
+* libs\alipaySDK-20150602.jar => huitianxinli\libs\alipaySDK-20150602.jar
+* libs\android-async-http-1.4.6.jar => huitianxinli\libs\android-async-http-1.4.6.jar
+* libs\arm64-v8a\libijkffmpeg.so => huitianxinli\src\main\jniLibs\arm64-v8a\libijkffmpeg.so
+* libs\arm64-v8a\libijkplayer.so => huitianxinli\src\main\jniLibs\arm64-v8a\libijkplayer.so
+* libs\arm64-v8a\libijksdl.so => huitianxinli\src\main\jniLibs\arm64-v8a\libijksdl.so
+* libs\arm64-v8a\libpolyvModule.so => huitianxinli\src\main\jniLibs\arm64-v8a\libpolyvModule.so
+* libs\armeabi-v7a\libijkffmpeg.so => huitianxinli\src\main\jniLibs\armeabi-v7a\libijkffmpeg.so
+* libs\armeabi-v7a\libijkplayer.so => huitianxinli\src\main\jniLibs\armeabi-v7a\libijkplayer.so
+* libs\armeabi-v7a\libijksdl.so => huitianxinli\src\main\jniLibs\armeabi-v7a\libijksdl.so
+* libs\armeabi-v7a\libpolyvModule.so => huitianxinli\src\main\jniLibs\armeabi-v7a\libpolyvModule.so
+* libs\armeabi\libijkffmpeg.so => huitianxinli\src\main\jniLibs\armeabi\libijkffmpeg.so
+* libs\armeabi\libijkplayer.so => huitianxinli\src\main\jniLibs\armeabi\libijkplayer.so
+* libs\armeabi\libijksdl.so => huitianxinli\src\main\jniLibs\armeabi\libijksdl.so
+* libs\armeabi\libpolyvModule.so => huitianxinli\src\main\jniLibs\armeabi\libpolyvModule.so
+* libs\bugly_1.2.9_release.jar => huitianxinli\libs\bugly_1.2.9_release.jar
+* libs\butterknife-6.1.0.jar => huitianxinli\libs\butterknife-6.1.0.jar
+* libs\commons-codec-1.9.jar => huitianxinli\libs\commons-codec-1.9.jar
+* libs\easemobchat_2.1.4.jar => huitianxinli\libs\easemobchat_2.1.4.jar
+* libs\fastjson-1.2.2.jar => huitianxinli\libs\fastjson-1.2.2.jar
+* libs\greendao-2.1.0.jar => huitianxinli\libs\greendao-2.1.0.jar
+* libs\httpclient-android-4.3.3.jar => huitianxinli\libs\httpclient-android-4.3.3.jar
+* libs\httpmime-4.3.5.jar => huitianxinli\libs\httpmime-4.3.5.jar
+* libs\jikmediaplayer.jar => huitianxinli\libs\jikmediaplayer.jar
+* libs\jikmediawidget.jar => huitianxinli\libs\jikmediawidget.jar
+* libs\libammsdk.jar => huitianxinli\libs\libammsdk.jar
+* libs\MobLogCollector.jar => huitianxinli\libs\MobLogCollector.jar
+* libs\MobTools.jar => huitianxinli\libs\MobTools.jar
+* libs\okio-1.8.0.jar => huitianxinli\libs\okio-1.8.0.jar
+* libs\picasso-2.5.2.jar => huitianxinli\libs\picasso-2.5.2.jar
+* libs\polyvSDK1.0.25.jar => huitianxinli\libs\polyvSDK1.0.25.jar
+* libs\RecyclerView.jar => huitianxinli\libs\RecyclerView.jar
+* libs\ShareSDK-Core-2.6.3.jar => huitianxinli\libs\ShareSDK-Core-2.6.3.jar
+* libs\ShareSDK-QQ-2.6.3.jar => huitianxinli\libs\ShareSDK-QQ-2.6.3.jar
+* libs\ShareSDK-QZone-2.6.3.jar => huitianxinli\libs\ShareSDK-QZone-2.6.3.jar
+* libs\ShareSDK-SinaWeibo-2.6.3.jar => huitianxinli\libs\ShareSDK-SinaWeibo-2.6.3.jar
+* libs\ShareSDK-TencentWeibo-2.6.3.jar => huitianxinli\libs\ShareSDK-TencentWeibo-2.6.3.jar
+* libs\ShareSDK-Wechat-2.6.3.jar => huitianxinli\libs\ShareSDK-Wechat-2.6.3.jar
+* libs\ShareSDK-Wechat-Core-2.6.3.jar => huitianxinli\libs\ShareSDK-Wechat-Core-2.6.3.jar
+* libs\ShareSDK-Wechat-Moments-2.6.3.jar => huitianxinli\libs\ShareSDK-Wechat-Moments-2.6.3.jar
+* libs\slidingmenu.jar => huitianxinli\libs\slidingmenu.jar
+* libs\uk-co-senab-photoview.jar => huitianxinli\libs\uk-co-senab-photoview.jar
+* libs\universal-image-loader-1.9.1.jar => huitianxinli\libs\universal-image-loader-1.9.1.jar
+* libs\x86\libijkffmpeg.so => huitianxinli\src\main\jniLibs\x86\libijkffmpeg.so
+* libs\x86\libijkplayer.so => huitianxinli\src\main\jniLibs\x86\libijkplayer.so
+* libs\x86\libijksdl.so => huitianxinli\src\main\jniLibs\x86\libijksdl.so
+* libs\x86\libpolyvModule.so => huitianxinli\src\main\jniLibs\x86\libpolyvModule.so
+* lint.xml => huitianxinli\lint.xml
+* res\ => huitianxinli\src\main\res\
+* src\ => huitianxinli\src\main\java\
+* src\.define => huitianxinli\src\main\resources\.define
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

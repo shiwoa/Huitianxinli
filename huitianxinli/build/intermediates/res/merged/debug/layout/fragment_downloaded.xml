@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ListView
+                android:id="@+id/downloaded_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/collection_del_null"
+                android:listSelector="@null" 
+                android:divider="@null" 
+                />
+
+            <LinearLayout
+                android:id="@+id/collection_del_null"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y28"
+                android:background="@color/color_F6"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/collection_delete"
+                        android:layout_width="@dimen/x100"
+                        android:layout_height="@dimen/y18"
+                        android:background="@drawable/delete_bg"
+                        android:gravity="center"
+                        android:text="@string/DELETE"
+                        android:textColor="@color/Red"
+                        android:textSize="15sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center" >
+
+                    <TextView
+                        android:id="@+id/collection_empty"
+                        android:layout_width="@dimen/x100"
+                        android:layout_height="@dimen/y18"
+                        android:background="@drawable/delete_bg"
+                        android:gravity="center"
+                        android:text="@string/empty"
+                        android:textColor="@color/Red"
+                        android:textSize="15sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/null_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y106"
+                android:background="@drawable/bg_download_no" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/y12"
+                android:gravity="center"
+                android:text="无下载视频!"
+                android:textColor="@color/color_67"
+                android:textSize="@dimen/x14" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

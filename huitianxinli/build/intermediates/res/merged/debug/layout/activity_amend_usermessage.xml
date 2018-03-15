@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x50"
+        android:background="@color/Blue" >
+
+        <LinearLayout
+            android:id="@+id/back_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/x10"
+                android:background="@drawable/back_button" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x16" />
+
+        <TextView
+            android:id="@+id/save_message"
+            android:layout_width="55dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/edit_bg"
+            android:gravity="center"
+            android:text="@string/save"
+            android:textColor="@color/White"
+            android:textSize="@dimen/x10" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_f8"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/messageLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/y31"
+            android:layout_marginTop="@dimen/y9"
+            android:background="@color/White"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/chenage_EditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/x16"
+                android:background="@null"
+                android:textColor="@color/color_33"
+                android:textSize="@dimen/x15" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/sexLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y50"
+            android:layout_marginTop="@dimen/y9"
+            android:background="@color/White"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/x10"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:id="@+id/manLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingRight="@dimen/x10" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="@string/man"
+                    android:textColor="@color/Black" />
+
+                <ImageView
+                    android:id="@+id/manImage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/down_select" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/chenage_line"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_F6" />
+
+            <LinearLayout
+                android:id="@+id/womanLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:paddingRight="@dimen/x10" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:text="@string/woman"
+                    android:textColor="@color/Black" />
+
+                <ImageView
+                    android:id="@+id/womanImage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/down_select"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:id="@+id/chenage_line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/color_F6" />
+    </LinearLayout>
+
+</LinearLayout>

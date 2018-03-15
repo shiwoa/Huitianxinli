@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="@dimen/y54"
+	    android:orientation="horizontal"
+	    android:gravity="center_vertical"
+		android:paddingLeft="@dimen/x13"
+		android:paddingRight="@dimen/x13"
+		android:background="@color/white">
+
+	    <LinearLayout
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:orientation="vertical" >
+	        <TextView
+	            android:id="@+id/phase_title"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+				android:textColor="@color/color_33"
+				android:textSize="@dimen/x14"/>
+	        <TextView
+	            android:id="@+id/phase_content"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginTop="@dimen/y9"
+				android:textColor="@color/color_99"
+				android:textSize="@dimen/x11"/>
+	    </LinearLayout>
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:gravity="center_vertical">
+	        <TextView
+	            android:id="@+id/exam_modle_text"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginRight="@dimen/x4"
+				android:textSize="@dimen/x10"
+				android:textColor="@color/color_F1686F"
+				android:background="@mipmap/exam_model_bg"
+				android:gravity="center"/>
+	        <TextView
+	            android:id="@+id/practice_modle_text"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+				android:textSize="@dimen/x10"
+				android:gravity="center"
+				android:textColor="@color/color_main"
+	            android:background="@mipmap/practice_model_bg"/>
+	    </LinearLayout>
+	</LinearLayout>
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:background="@color/color_e5"/>
+</LinearLayout>
